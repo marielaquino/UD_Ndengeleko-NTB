@@ -1,6 +1,6 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+UD_Ndengeleko-NTB is a corpus of elicited Ndengeleko texts collected by Tessa Scott. The current version of the corpus consists of sentences and stories provided by consultant Habiba Kiongoli. 
 
 
 # Introduction
