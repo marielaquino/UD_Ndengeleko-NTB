@@ -1,6 +1,6 @@
 # Summary
 
-UD_Ndengeleko-NTB is a corpus of elicited Ndengeleko texts collected by Tessa Scott. The current version of the corpus consists of sentences and stories provided by consultant Habiba Kiongoli. 
+UD_Ndengeleko-NTB is a corpus of elicited Ndengeleko texts collected by Tessa Scott in Ikwiriri, Pwani, Tanzania. The current version of the corpus consists of sentences and stories provided by consultant Amiri Kiongoli. 
 
 
 # Introduction
